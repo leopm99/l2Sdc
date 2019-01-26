@@ -1,0 +1,20 @@
+0	 =======================================
+0	 FOR MORE INFO CHECK  ALT+B
+0	 SERVER STATUS : LIVE
+0	 SERVER LIVE 01.09.2016
+0	 =======================================
+18000	 Use .party text to search for party
+18000	 Use .partylist to display you the already party matching made!
+0	 =======================================
+21600	 If you Want to Change your Account Password type in game .password old new new
+21600	 For example: .password old_pass new_pass new_pass
+21600	 If you want to update/change security password use .control
+21600	 In order to avoid account scam/hack, we recomend you using options like HWID Lock that you can find on .control if you play from same PC
+0	 =======================================
+7200	 When enchanting an item and it fails, the item WILL RETURN TO +3, NOT TO +0!
+0	 =======================================
+14400	 ============================
+0	----> READ SERVER RULES ON FORUM!!! Ignorance of this rules is NOT an excuse for breaking them. By accepting the registration process on the server you automatically accept this rules and agree with them. Thnk you!
+3600	 ============================
+IMPORTANT ------> Registrations for PRIVATE RAID ZONE EVENT are now OPEN!!!! Check our FORUM for more details.
+============================
